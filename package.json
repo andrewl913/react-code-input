@@ -1,7 +1,7 @@
 {
-  "name": "react-code-input",
-  "version": "3.8.2",
-  "description": "React component for entering and validating numbers, text or password.",
+  "name": "react-pin-code-input",
+  "version": "1.0.0",
+  "description": "Fork of react code input: React component for entering and validating numbers, text or password.",
   "main": "dist/ReactCodeInput.js",
   "scripts": {
     "start": "npm run storybook",
@@ -65,11 +65,11 @@
   },
   "homepage": "https://github.com/40818419/react-code-input#readme",
   "dependencies": {
-    "classnames": "^2.2.5",
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2"
+    "classnames": "^2.2.5"
   },
   "devDependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
     "@storybook/addon-actions": "4.0.0-alpha.20",
     "@storybook/addon-info": "^3.4.10",
     "@storybook/addon-knobs": "^3.4.10",
